@@ -93,13 +93,4 @@ $("tbody").append(newRow);
 
 
 });
-  //   var timeRemainder = moment().diff(moment.unix(timeInput), "minutes") % frequencyInput;
-  //   var minutes = frequencyInput - timeRemainder; 
-
-  //   var nextTrainArrival = moment().add(minutes, "minutes").format("hh:mm"); 
-   
-    
-    
-  //   $("tbody").append("<tr><td>" + trainName + "</td><td>" + destination + "</td><td>" + timeInput + "</td><td>" + nextTrainArrival + "</td><td>" + frequencyInput + "</td><td>" + minutes + "</td></tr>");
  
-  // });
