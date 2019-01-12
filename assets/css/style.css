@@ -1,0 +1,41 @@
+body {
+background-image: url("train.jpg");
+
+background-color: aqua;
+
+
+}
+
+.row {
+opacity: 0.96;
+
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    opacity: .56;
+}
+
+h1{
+    color: black;
+    font-family: 'Faster One', cursive;
+}
+
+p{
+    color: black;
+    font-family: 'Faster One', cursive;
+}
